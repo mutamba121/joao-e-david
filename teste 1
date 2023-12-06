@@ -52,7 +52,7 @@ background-image:url(https://w0.peakpx.com/wallpaper/525/157/HD-wallpaper-halo-f
         } 
 	.foto{
 	width:623px ;
-	weight:223px ;
+	height:223px ;
 	}
 	iframe{
 	width:730px ;
