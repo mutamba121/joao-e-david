@@ -1,0 +1,218 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Atividade-08</title>
+</head>
+
+<head>
+    <meta charset="UTF-8">
+    <title>layout com div e span</title>
+    <style> 
+        body{
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        header {
+        background-image:url(https://media.wired.com/photos/5a909f57dc9df6500b9071bd/16:9/w_2400,h_1350,c_limit/Formula1-FA.jpg);
+	background-size: cover;
+	background-position: center;
+	color: #f17ea1;
+	text-align: center;
+	padding: 100px;
+	font-size: 20px;
+        }
+        #nav {
+            float: left;
+            width: 20%;
+            background-color: #000000;
+            padding: 20px;
+            height: 2426px;   
+        }
+        #content {
+           float: left; width: 60%; padding: 20px;
+background-image:url(https://w0.peakpx.com/wallpaper/525/157/HD-wallpaper-halo-ferrari-sf71h-new-cockpit-protection-formula-one-f1-formula-1-2018-formula-1-scuderia-ferrari-2018-cars-sf71h.jpg);
+	background-size: cover;
+	background-position: center;
+	color:white;
+	padding: 133px;
+	height: 2200px;
+        }
+        #footer {
+        clear: both; 
+	background-color: #333; 
+	color: #fff; 
+	text-align: center; 
+	padding:10px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: red;
+        } 
+	.foto{
+	width:623px ;
+	weight:223px ;
+	}
+	iframe{
+	width:730px ;
+	height:323px ;
+	}
+
+        ;</style>
+</head>
+
+<body>
+
+    <header>
+        <h1>HALO</h1>
+        <p>Bem-vindo ao site</p>
+    </header>
+
+    <div id="nav">
+        <ul>
+            <li><a
+                    href="https://www.terra.com.br/esportes/automobilismo/formula1/acidentes-impressionantes-7-vezes-que-o-halo-salvou-a-vida-de-pilotos-na-f1,bd22cc3257236e738a82211d2a36a824y8ixvllw.html">Acidentes
+                    que o HALO salvou</a></li>
+
+            <br>
+            <br>
+            <br>
+
+            <li><a
+                    href="https://www.espn.com.br/f1/artigo/_/id/10588649/formula-1-o-que-e-halo-salvou-vidas-pilotos-hamilton-impacto-dois-acidentes-finais-de-semana">Propósito
+                    do HALO</a></li>
+
+        </ul>
+    </div>
+
+
+    <div id="content">
+        <h2>Resumo</h2>
+        <p>A tecnologia <span style="font-weight: bold; color: green;">HALO</span> foi implementada em 2018 nos carros
+            de corrida de Fórmula e tem se mostrado bastante importante para a segurança dos pilotos. No Grande Prêmio
+            da Grã-Bretanha, no último domingo (3), o piloto da Alfa Romeo Zhou Guanuy sofreu um acidente que fez com
+            que o veículo ficasse ao contrário, enquanto o mesmo não sofreu lesões. Posteriormente, nas redes soiais,
+            ele disse que o sistema salvou a sua vida.
+        </p>
+        <p>
+            O Halo é uma barreira protetora que impede a entrada de objetos grandes e detritos no cockpit do motorista
+            em caso de acidente. Ela também protege o piloto caso um carro capote e aterrisse em cima de outro veículo.
+            O último exemplo foi o que aconteceu com o piloto de teste da Williams, Roy Nissany. A presença do Halo foi
+            fundamental para evitar que a roda do carro de Dennis Hauger acertasse em cheio a cabeça de Nissany.
+        </p>
+
+        <body>
+            <center>
+                <img class="foto"
+                    src="https://cdn-7.motorsport.com/images/amp/6gymVVa2/s6/f1-barcelona-february-testing-2018-sebastian-vettel-ferrari-sf71h-7743899.jpg"
+                    alt="imagem do HALO">
+        </body>
+        </center>
+
+        <p><b>
+                Como funciona o Halo?
+        </p></b>
+        <p><i>
+                Pesando entre 7 e 14 quilos, o Halo é a parte mais forte de um carro de corrida de Fórmula. Ele é feito
+                de titânio esculpido e pode suportar a pressão resultante de um peso de 12 toneladas, que pode ser
+                representado por um ônibus de dois andares. Outros benefícios incluem a ajuda na distribuição de
+                luz.</i>
+        </p>
+
+        <body>
+            <center>
+
+                <p>
+                    <img class="foto"
+                        src="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2022/07/04/francois-lenoir-reuters-1hblhxfj8nv3l.JPG"
+                        alt="Acidentes que teve o bom uso do HALO">
+                </p>
+            </center>
+        </body>
+
+        <h3>Videos Relacionado sobre (VIDEO CENSURADO PELO YOTUBE)</h2>
+
+            <center>
+                <ol type="a">
+
+                    <li>
+                        <iframe src="https://www.youtube.com/embed/KpnJzsfqK9c"
+                            title="Fórmula 1. Grosjean escapa de carro em chamas após violento acidente" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen></iframe>
+                    </li>
+
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+
+                    <li>
+                        <iframe src="https://www.youtube.com/embed/rrQaM8ldpR0"
+                            title="4 Vezes que o Halo Salvou vidas na F1" frameborder="0"
+                            allow="accelerometer; 	autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-	share"
+                            allowfullscreen></iframe>
+                    </li>
+            </center>
+            </ol>
+
+            </head>
+
+            <body>
+                <center>
+                    <h2> Informações e Conquitas </h2>
+
+                    <table border="1">
+                        <tr>
+                            <th>Piloto </th>
+                            <th>Vitorias </th>
+                            <th>títulos </th>
+                        </tr>
+                        <tr>
+                            <td>Lewis Hamilton </td>
+                            <td>103 </td>
+                            <td> 8 </td>
+                        </tr>
+                        <tr>
+                            <td> Michael Schumacher </td>
+                            <td> 91 </td>
+                            <td> 7 </td>
+
+                        </tr>
+                        <tr>
+                            <td> Sebastian Vettel </td>
+                            <td> 53 </td>
+                            <td> 4 </td>
+                        </tr>
+                        <tr>
+                            <td> Ayrton Senna </td>
+                            <td> 41 </td>
+                            <td> 3 </td>
+                        </tr>
+                        <tr>
+                            <td> Max Verstappen </td>
+                            <td> 41 </td>
+                            <td> 1 </td>
+                        </tr>
+                    </table>
+                </center>
+                <center>
+                    <h2> Audio de carros da F1 </h2>
+
+                    <audio controls>
+                        <source src="https://m.toqueparacelular.com.br/a/n01/Formula_1.mp3" type="audio/mpeg">
+                    </audio </center>
+
+
+
+    </div>
+
+    <div id="footer">
+        <p>&copy; 2024 Meu Site. Todos os direitos reservados.</p>
+    </div>
+
+
+</body>
+
+</html>
